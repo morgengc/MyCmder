@@ -1,0 +1,223 @@
+ll
+ls -l
+f:
+ls
+exit
+f:
+cd 编程与优化\
+ll
+ls -l
+which which
+which git
+cd awk\
+ls
+vi "awk innerVariable.txt" 
+which vi
+alias
+pwd
+exit
+ls
+exit
+exit
+which git
+exit
+J:
+cd J:\Windows\笔记本未存储\软件\系统工具\LinuxAlternative\CmderFull.zip
+clear
+ping 10.0.2.15
+ping 192.168.122.1
+ifconfig
+ipconfig
+ping 192.168.56.1
+ping 192.168.56.2
+exit
+ping 192.168.122.1
+exit
+netstat -anp | grep 2222
+exit
+ping 192.168.122.1
+exit
+ping 67.21.78.208
+exit
+ping 104.160.185.150
+ping 67.21.78.149
+ping 104.160.185.80
+ping 104.160.185.160
+netstat -anp | grep 2222
+netstat -anp
+which netstat 
+netstat
+exit
+netstat -anp | grep 2222
+netstat -anp
+which netstat 
+netstat
+which which
+which ll
+which ls
+ls
+ll
+exit
+D:
+cd D:\LinuxCmd
+clear
+ll
+lla
+ls -la
+exit
+D:
+cd D:\LinuxCmd
+clear
+ll
+exit
+cd D:\LinuxCmd
+D:
+cd D:\
+clear
+ll
+ls
+which netstat
+netstat -an
+netstat -an | grep 80
+alias.bat 
+netstat -anp
+exit
+D:
+cd D:\CmderFull\config
+clear
+netstat -anp
+netstat -an
+exit
+netstat -anp
+netstat -an
+D:
+cd D:\CmderFull\config
+clear
+alias.bat 
+..
+ls
+exit
+..
+exit
+D:
+cd D:\CmderFull\config
+which which
+ll
+which ll
+which md5sum.exe 
+which mkdir
+which mv
+clear
+cls
+which scp
+ls
+pwd
+ls
+exit
+E:
+cd E:\迅雷下载
+clear
+ls
+exit
+D:
+cd D:\LinuxCmd
+clear
+which wget
+exit
+F:
+cd F:\BigDataDev
+clear
+which wget
+eixt
+exit
+F:
+cd F:\BigDataDev
+clear
+which wget
+which which
+exit
+F:
+cd F:\BigDataDev
+clear
+which which
+which wget
+wget
+exit
+cd F:\BigDataDev
+which which
+which wget
+wget
+D:
+cd D:\Program Files\Oracle\VirtualBox
+clear
+VBoxManage list hdds\
+VBoxManage modifyhd 98b06b99-42f0-4b1e-ad0d-199350890fe9 --resize 10240
+VBoxManage modifyhd 98b06b99-42f0-4b1e-ad0d-199350890fe9 --resize 20480
+VBoxManage modifyhd 6ed32f89-6770-4ee5-b2aa-521b59988a19 --resize 20480
+VBoxManage list hdds
+ping 192.168.122.1
+exit
+which which
+which wget
+wget
+exit
+J:
+cd J:\Windows\笔记本未存储\软件\程序开发软件\Python
+clear
+scp Anaconda2-4.4.0-Linux-x86_64.sh gaochao@127.0.0.1:2222
+scp -p 2222 Anaconda2-4.4.0-Linux-x86_64.sh gaochao@127.0.0.1:/home/gaochao
+ls
+vi /c/Users/morgen/.ssh/known_hosts
+scp -P 2222 Anaconda2-4.4.0-Linux-x86_64.sh gaochao@127.0.0.1:/home/gaochao
+ping 192.168.122.1
+exit
+scp -P 2222 Anaconda2-4.4.0-Linux-x86_64.sh gaochao@127.0.0.1:/home/gaochao
+ping 192.168.122.1
+D:
+cd D:\Program Files\Oracle\VirtualBox
+clear
+VBoxManage.exe setextradata CentOS6.5 VM_NAME VBoxInternal2/SharedFoldersEnableSymlinksCreate/SharedDev 1
+VBoxManage.exe setextradata CentOS6.5 VBoxInternal2/SharedFoldersEnableSymlinksCreate/SharedDev 1
+VBoxManage.exe setextradata CentOS6.5 VBoxInternal2/SharedFoldersEnableSymlinksCreate/SharedDev 0
+exit
+D:
+cd D:\VM
+clear
+ll
+exit
+ll
+D:
+cd D:\Program Files\Oracle\VirtualBox
+clear
+VBoxManage.exe internalcommands sethduuid D:\VM\CentOS6.5-Python.vdi 
+exit
+ifonfig
+ifconfig
+exit
+VBoxManage.exe setextradata CentOS6.5 VBoxInternal2/SharedFoldersEnableSymlinksCreate/SharedDev 1
+VBoxManage.exe setextradata CentOS6.5 VBoxInternal2/SharedFoldersEnableSymlinksCreate/SharedDev 0
+netstat -an | grep 8088
+netstat -an | grep 80
+ls
+exit
+which python
+phinx
+sphinx-build
+ping bigdata1635
+exit
+sphinx-build
+ping bigdata1635
+exit
+ping 54.231.80.248
+ping bigdata1635
+ping 
+ping 67.21.78.149
+ping 67.21.78.208
+ping hk.ohmyss.win
+ping jp.ohmyss.win
+ping 54.231.80.248
+exit
+cd 
+clear
+ll
+exit
